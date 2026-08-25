@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Upwork-0A101F?style=for-the-badge&logo=upwork&logoColor=2DD4BF&labelColor=0A101F" alt="Upwork" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.fiverr.com/s/jj6Z6Y9">
+<a href="https://www.fiverr.com/hassan_genai">
   <img src="https://img.shields.io/badge/Fiverr-0A101F?style=for-the-badge&logo=fiverr&logoColor=2DD4BF&labelColor=0A101F" alt="Fiverr" />
 </a>
 
